@@ -1,5 +1,23 @@
 {
   "schema_version": 1,
   "repository": "OlgunBeyaz/MiraNovel-Dictionaries",
-  "languages": []
+  "languages": [
+    {
+      "code": "tr-TR",
+      "name": "Türkçe",
+      "version": "1.0.0",
+      "filename": "dilek_tr.zip",
+      "url": "https://github.com/OlgunBeyaz/MiraNovel-Dictionaries/releases/download/dict-tr-v1.0.0/dilek_tr.zip",
+      "sha256": "9cd4402c050f2bbfaad827e014f2d6b2d795701f2ad17f9e24b22ce5ccb12786",
+      "size_bytes": 8374012,
+      "type": "synonyms",
+      "format": "sqlite-zip",
+      "database": "dilek_tr.db",
+      "license": "MIT",
+      "license_review": "pending-source-verification",
+      "prerelease": true,
+      "status": "testing",
+      "release_tag": "dict-tr-v1.0.0"
+    }
+  ]
 }
