@@ -1,0 +1,10 @@
+# Build and local staging artifacts
+*.db
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
