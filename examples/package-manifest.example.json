@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "version": "1.0.0",
+  "components": [
+    {
+      "type": "synonyms",
+      "path": "dict/dilek_en.db",
+      "format": "sqlite"
+    },
+    {
+      "type": "spelling",
+      "path": "dict/en_US.dic",
+      "affix_path": "dict/en_US.aff",
+      "format": "hunspell"
+    }
+  ],
+  "source": "SOURCE_NAME",
+  "license": "SPDX_LICENSE_IDENTIFIER",
+  "attribution_file": "LICENSES/ATTRIBUTION.txt"
+}
